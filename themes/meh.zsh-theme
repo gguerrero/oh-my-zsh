@@ -5,7 +5,7 @@ if [ $UID -eq 0 ]; then
   path_color="red"
   path_suffix="#"
 else
-  path_color="gray"
+  path_color="green"
   path_suffix="$"
 fi
 
